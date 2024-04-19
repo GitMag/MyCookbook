@@ -8,7 +8,7 @@ from random import randint
 
 """
 COMP.CS.100 Ohjelmointi 1.
-Magnus Forsblom, magnus.forsblom@tuni.fi, opiskelijanumero 150794761
+Magnus Forsblom, magnus.forsblom@tuni.fi
 13.10 Projekti: Graafinen käyttöliittymä
 MyCookBook - A solution for all your cookbook needs
 Note to assistant: The project aims to be an advanced GUI.

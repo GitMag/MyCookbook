@@ -15,6 +15,11 @@ The project aims to provide an advanced graphical user interface (GUI) for manag
 - Search for recipes by name or ingredients.
 - Sort recipes based on various criteria.
 
+## Images
+
+![Application main window](https://github.com/GitMag/MyCookbook/assets/34399030/9ccf75e4-d6eb-47ce-8f5d-0820355a9cda)
+
+
 ## How to Use
 
 1. Ensure you have Python 3.6 or greater installed.

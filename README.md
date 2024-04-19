@@ -40,7 +40,3 @@ MyCookBook loads the cookbook file location from `MyCookBook.config` in the same
 ## Disclaimer
 
 When using pickle to load cookbooks, ensure they are from trusted sources to avoid code execution risks.
-
----
-
-For more details, contact the author at magnus.forsblom@tuni.f
